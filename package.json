@@ -36,6 +36,6 @@
     "globals": "^16.0.0",
     "vite": "^6.3.5"
   },
-  "homepage": "https://eswar-ts.github.io/mcan_app",
+  "homepage": "https://eswar-ts.github.io/MCAN_App/",
   "base": "/mcan_app/"
 }
