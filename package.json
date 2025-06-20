@@ -37,5 +37,5 @@
     "vite": "^6.3.5"
   },
   "homepage": "https://eswar-ts.github.io/MCAN_App/",
-  "base": "/mcan_app/"
+  "base": "/MCAN_App/"
 }
