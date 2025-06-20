@@ -9,7 +9,7 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist -r https://github.com/Eswar-TS/mcan.git"
+    "deploy": "gh-pages -d dist -r https://github.com/Eswar-TS/mcan_app.git"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -36,6 +36,6 @@
     "globals": "^16.0.0",
     "vite": "^6.3.5"
   },
-  "homepage": "https://eswar-ts.github.io/mcan",
-  "base": "/mcan/"
+  "homepage": "https://eswar-ts.github.io/mcan_app",
+  "base": "/mcan_app/"
 }
