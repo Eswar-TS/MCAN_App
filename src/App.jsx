@@ -13,7 +13,7 @@ function App() {
 		<ColorModeContext.Provider value={colorMode}>
 			<ThemeProviderWrapper theme={theme}>
 				<AuthProvider>
-					<Router>
+					<Router basename="/MCAN_App">
 						<Header />
 						<Toolbar />
 						<Box sx={{ maxWidth: 900, mx: "auto", width: "100%" }}>
