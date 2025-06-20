@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📱 MCAN App
 
 A high-performance, modular React application built with [Vite](https://vitejs.dev/) for lightning-fast development and optimized production builds.
@@ -74,3 +75,6 @@ npm run build
 # Run unit and integration tests
 npm test
 
+=======
+# MCAN_App
+>>>>>>> e5fad45705fc37bbac0b10f821101a8f31d96f50
